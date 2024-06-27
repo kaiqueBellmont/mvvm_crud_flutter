@@ -17,8 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 # mvvm_crud_flutter
 
 
-# mvvm_crud_flutter
-
 - lib
     - models
         - product.dart         // Modelo de dados do produto
